@@ -209,3 +209,9 @@ __marimo__/
 .idea
 .idea/
 __pycache__
+logs/
+__pycache__/
+*.pyc
+*.log
+*.xlsx
+*.csv
